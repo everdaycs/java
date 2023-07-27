@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b30b19f8-724c-42fd-ad4d-123e6837b1b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../J20230420/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J20230420/src/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J20230420/src/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FenZhuang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/come/baidu/Demo/TestDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/come/baidu/www/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/come/baidu/www/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J20230417/src/HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../J20230417/src/HomeWork.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2T8XwxMjotYE4yglTOK5xucz4t1" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="J20230422" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="J20230422" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="come.baidu.Demo.Test" />
+      <module name="J20230422" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="come.baidu.Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="J20230422" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b30b19f8-724c-42fd-ad4d-123e6837b1b1" name="Changes" comment="" />
+      <created>1690425926135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690425926135</updated>
+    </task>
+    <servers />
+  </component>
+</project>
